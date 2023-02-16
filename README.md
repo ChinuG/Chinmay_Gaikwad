@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java + DSA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ChinuG](https://github.com/Chinmay191201?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/ChinuG](https://github.com/ChinuG?tab=repositories)
 
 - 📫 How to reach me **chinmaygaikwad1901#gmail.com**
 
